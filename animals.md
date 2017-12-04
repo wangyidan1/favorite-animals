@@ -2,3 +2,4 @@
 Horse
 Dolphin
 Chicken
+Dog
