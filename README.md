@@ -1,7 +1,7 @@
 # Readme
 Get a copy of this repository by running
 ```
-git clone https://gitlab.umiacs.umd.edu/eschoute/favorite-animals.git
+git clone https://github.com/eddieschoute/favorite-animals.git
 ```
 And get the `cousin` branch too:
 ```
