@@ -3,3 +3,5 @@ Horse
 Dolphin
 Chicken
 Dog
+Walrus
+Whale
